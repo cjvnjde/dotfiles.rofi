@@ -1,5 +1,5 @@
 configuration {
-	modes: "drun,run";
+	modes: "drun,run,calc";
 	font: "FiraCode Nerd Font";
 	show-icons: false;
 /*	run-command: "{cmd}";*/
@@ -106,10 +106,6 @@ configuration {
   timeout {
       action: "kb-cancel";
       delay:  0;
-  }
-  filebrowser {
-      directories-first: true;
-      sorting-method:    "name";
   }
 }
 
