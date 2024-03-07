@@ -2,6 +2,7 @@ configuration {
 	  font: "FiraCode Nerd Font";
 	  modes: "drun,run,calc";
     icon-theme: "Oranchelo";
+    terminal: "kitty";
     show-icons: true;
     terminal: "alacritty";
     drun-display-format: "{icon} {name}";
