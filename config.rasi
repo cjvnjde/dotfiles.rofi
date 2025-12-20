@@ -4,7 +4,6 @@ configuration {
     icon-theme: "Oranchelo";
     terminal: "wezterm";
     show-icons: true;
-    terminal: "wezterm";
     drun-display-format: "{icon} {name}";
     location: 0;
     disable-history: false;
