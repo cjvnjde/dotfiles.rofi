@@ -2,9 +2,9 @@ configuration {
 	  font: "FiraCode Nerd Font";
 	  modes: "drun,run,calc";
     icon-theme: "Oranchelo";
-    terminal: "kitty";
+    terminal: "wezterm";
     show-icons: true;
-    terminal: "alacritty";
+    terminal: "wezterm";
     drun-display-format: "{icon} {name}";
     location: 0;
     disable-history: false;
